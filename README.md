@@ -1,5 +1,5 @@
-# Hi 👋, I'm Dubidek
-A passionate frontend developer from Poland
+<h1 align="center">Hi 👋, I'm Dubidek</h1>
+<h3 align="center">A passionate frontend developer from Poland</h3>
 <br><br>
 
 ## 🛠️ I’m currently working on
